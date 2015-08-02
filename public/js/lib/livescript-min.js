@@ -1,0 +1,1 @@
+../../../LiveScript/browser/livescript-min.js

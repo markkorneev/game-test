@@ -1,2 +1,5 @@
 # gedit backups
 *~
+
+.venv
+config.yaml
